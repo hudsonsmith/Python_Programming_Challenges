@@ -1,1 +1,3 @@
-# Python_Programming_Challenges
+<div text-align="center">
+  # Python Programming Challenges
+</div>
